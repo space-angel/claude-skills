@@ -1,0 +1,14 @@
+{
+  "timezone": "Asia/Seoul",
+  "areas": ["app", "booking", "notify", "data", "copy"],
+  "people": {
+    "doyun-gh": "도윤",
+    "seoa-gh": "서아"
+  },
+  "exports": ["claude", "claude-rules", "agents"],
+  "always_on_limit": 10,
+  "vague_words": ["적절히", "적당히", "가능하면", "필요시", "필요 시", "등등", "꼭 필요할 때"],
+  "comparatives": ["이하", "이상", "미만", "초과", "까지", "이내"],
+  "one_rule_words": ["그리고", "또한", "단,"],
+  "tracker": "local"
+}
